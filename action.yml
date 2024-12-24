@@ -1,5 +1,5 @@
 name: "Chack File Action"
 description: "Check if Readme and License files are present"
 runs:
-  using: node12
+  using: node20
   main: index.js
