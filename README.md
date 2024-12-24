@@ -1,2 +1,5 @@
-# check-files-action
-check files action
+npm init -y
+
+npm install @actions/core
+
+npm install @actions/github
